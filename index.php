@@ -8,8 +8,9 @@
 	<?php include('inc/meta.php'); ?>
 	<title>Keith Bootstrap 1 Test 2</title>
 </head>
-
-<body>
+<!-- test comment -->
+<!-- and another change -
+<body>->
 
 	<?php include('inc/nav.php'); ?>
 	<?php include('inc/header.php'); ?>
