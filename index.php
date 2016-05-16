@@ -6,10 +6,7 @@
 
 <head>
 	<?php include('inc/meta.php'); ?>
-<<<<<<< HEAD
 	<title>Keith Bootstrap Theme Test 1</title>
-=======
->>>>>>> master
 </head>
 
 <body>
