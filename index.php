@@ -6,7 +6,7 @@
 
 <head>
 	<?php include('inc/meta.php'); ?>
-	<title>Initializr</title>
+	<title>Keith Bootstrap Theme Test 1</title>
 </head>
 
 <body>
