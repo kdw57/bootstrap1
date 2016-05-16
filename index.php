@@ -6,6 +6,7 @@
 
 <head>
 	<?php include('inc/meta.php'); ?>
+	<title>Keith Bootstrap 1 Test</title>
 </head>
 
 <body>
