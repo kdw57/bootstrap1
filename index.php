@@ -6,7 +6,7 @@
 
 <head>
 	<?php include('inc/meta.php'); ?>
-	<title>Keith Bootstrap 1 Test</title>
+	<title>Keith Bootstrap 1 Test 2</title>
 </head>
 
 <body>
