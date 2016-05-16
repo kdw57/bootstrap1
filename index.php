@@ -6,7 +6,7 @@
 
 <head>
 	<?php include('inc/meta.php'); ?>
-	<title>Title here</title>
+	<title>Initializr</title>
 </head>
 
 <body>
