@@ -6,7 +6,6 @@
 
 <head>
 	<?php include('inc/meta.php'); ?>
-	<title>Initializr</title>
 </head>
 
 <body>
