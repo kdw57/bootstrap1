@@ -6,7 +6,8 @@
 
 <head>
 	<?php include('inc/meta.php'); ?>
-	<title>Keith Bootstrap 1 Test 2</title>
+	<title>Keith Bootstrap Theme Test 2</title>
+    <!-- test comment added to new branch -->
 </head>
 <!-- test comment -->
 <!-- and another change -->
