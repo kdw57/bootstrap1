@@ -9,8 +9,8 @@
 	<title>Keith Bootstrap 1 Test 2</title>
 </head>
 <!-- test comment -->
-<!-- and another change -
-<body>->
+<!-- and another change -->
+<body>
 
 	<?php include('inc/nav.php'); ?>
 	<?php include('inc/header.php'); ?>
